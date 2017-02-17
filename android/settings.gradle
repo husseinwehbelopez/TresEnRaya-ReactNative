@@ -1,0 +1,3 @@
+rootProject.name = 'TresEnRaya'
+
+include ':app'
